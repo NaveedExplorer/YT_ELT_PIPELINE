@@ -1,6 +1,6 @@
 {
     "kind": "youtube#channelListResponse",
-    "etag": "mky5yfatRnp-E8N9-BwXGY8W8Dk",
+    "etag": "5ZG3u5HdfiVyTQ-1KYQkzPo_l9w",
     "pageInfo": {
         "totalResults": 1,
         "resultsPerPage": 5
@@ -8,12 +8,12 @@
     "items": [
         {
             "kind": "youtube#channel",
-            "etag": "-f8h6RTCebSZttPcDz3dTkMV5yo",
-            "id": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+            "etag": "AX7mk1W8TvhOdR6ScP9L9B44eJY",
+            "id": "UCfMMz0jomaiCDJdA9J93lQA",
             "contentDetails": {
                 "relatedPlaylists": {
                     "likes": "",
-                    "uploads": "UUX6OQ3DkcsbYNE6H8uQQuVA"
+                    "uploads": "UUfMMz0jomaiCDJdA9J93lQA"
                 }
             }
         }
